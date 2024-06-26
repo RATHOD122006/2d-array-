@@ -15,7 +15,7 @@ int main (){
 			scanf("%d",&array[i][j]);
 			
 		} 
-	}
+	}printf("\n");
 
 	for(int i=0; i<row; i++){
 		for(int j=0; j<row; j++){
